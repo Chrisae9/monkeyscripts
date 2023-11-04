@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Giant Coupon Clip
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  Easily clip all visible coupons on the Giant grocery store website.
+// @author       Chris Alves
 // @match        https://giantfood.com/savings/coupons/browse
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=giantfood.com
 // @grant GM_addStyle

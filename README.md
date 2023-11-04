@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Browse to the [monkey-scripts GitHub repository](https://github.com/chrisae9/monkey-scripts).
-2. Click on the folder of the script you are interested in. For instance, click on the [giant-coupon-clipper](https://github.com/chrisae9/monkey-scripts/tree/main/giant-coupon-clipper) folder for the Giant Coupon Clipper script.
+2. Click on the folder of the script you are interested in. For instance, click on the [giant-coupon-clipper](giant-coupon-clipper) folder for the Giant Coupon Clipper script.
 3. Inside the folder, find the link to Greasy Fork for the script and click on it.
 4. On the Greasy Fork page, press the “Install this script” button.
 5. Tampermonkey will open a new tab showing the script. Press “Install” to complete the installation.
@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Available Scripts
 
-- **[Giant Coupon Clipper](https://github.com/chrisae9/monkey-scripts/tree/main/giant-coupon-clipper)**: This script automates the process of clipping coupons on the Giant Food website. 
+- **[Giant Coupon Clipper](giant-coupon-clipper)**: This script automates the process of clipping coupons on the Giant Food website. 
 
 ## Contributing
 
