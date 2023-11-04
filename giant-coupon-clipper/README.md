@@ -6,7 +6,7 @@ Automate the process of clipping coupons on the Giant Food website using this Ta
 
 This script automatically clicks on all available coupons on the Giant Food website, saving you the hassle of manually clipping each one. It iterates through all the coupon buttons on the page, clicks them, and waits for a short delay before moving on to the next, ensuring that all coupons are successfully clipped.
 
-**Prerequisite:** You need to have a valid account on [giant.com](https://giant.com) and be logged in to clip coupons.
+**Prerequisite:** You need to have a valid account on [giantfood.com](https://giantfood.com) and be logged in to clip coupons.
 
 
 ## Installation
