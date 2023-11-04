@@ -2,7 +2,7 @@
 // @name         Giant Coupon Clip
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Easily clip all visible coupons on the Giant grocery store website.
+// @description  Easily clip all visible coupons on the Giant grocery store website. https://github.com/Chrisae9/monkeyscripts/blob/main/giant-coupon-clipper/giant-coupon-clipper.js
 // @author       Chris Alves
 // @match        https://giantfood.com/savings/coupons/browse
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=giantfood.com
