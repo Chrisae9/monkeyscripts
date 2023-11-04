@@ -12,7 +12,7 @@ This script automatically clicks on all available coupons on the Giant Food webs
 ## Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension if you haven't already.
-2. Click on the [Greasy Fork link](https://greasyfork.org/en/scripts/your-script-id-giant-coupon-clipper) to navigate to the script page.
+2. Click on the [Greasy Fork link](https://greasyfork.org/en/scripts/479038-giant-coupon-clip) to navigate to the script page.
 3. Press the “Install this script” button on the Greasy Fork page.
 4. Tampermonkey will open a new tab showing the script. Press “Install” to complete the installation.
 5. Navigate to the Giant Food website and watch as the script automatically clips all available coupons for you!
